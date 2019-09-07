@@ -6,6 +6,7 @@ public class Car {
 	protected void finalize() throws Throwable {
 		
 		System.out.println("Car被回收了！");
+		System.out.println("Car被回收了！");
 		
 		
 	}
