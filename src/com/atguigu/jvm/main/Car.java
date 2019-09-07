@@ -7,6 +7,7 @@ public class Car {
 		
 		System.out.println("Car被回收了！");
 		System.out.println("Car被回收了！");
+		System.out.println("Car被回收了！");
 		
 		
 	}
